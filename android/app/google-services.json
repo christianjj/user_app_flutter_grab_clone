@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "812120767687",
+    "firebase_url": "https://grabberapp-9e1a1-default-rtdb.firebaseio.com",
+    "project_id": "grabberapp-9e1a1",
+    "storage_bucket": "grabberapp-9e1a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812120767687:android:d69e7a5957577dc62352e2",
+        "android_client_info": {
+          "package_name": "com.dev.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB41_B_IGfinPqhHJBmPhZDBUVq_MEKfEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812120767687:android:e30132344b1a56872352e2",
+        "android_client_info": {
+          "package_name": "com.example.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB41_B_IGfinPqhHJBmPhZDBUVq_MEKfEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
